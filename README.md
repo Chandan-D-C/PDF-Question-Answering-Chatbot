@@ -270,11 +270,9 @@ http://localhost:8501
 
 AI/ML & Generative AI Developer
 
-- LinkedIn: www.linkedin.com/in/chandan-kumar-81035524a
-- GitHub: https://github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/chandan-d-c-803934272/
+- GitHub: https://github.com/Chandan-D-C
+
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub and sharing it with others.

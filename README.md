@@ -191,6 +191,11 @@ Context-Aware Answer
 
 ---
 
+<h2><a class="anchor" id="dashboard--design"></a>Dashboard & Design</h2>
+<img width="1898" height="898" alt="Screenshot 2026-06-05 170906" src="https://github.com/user-attachments/assets/5961c452-14fe-435f-a336-22a91d7b7ada" />
+
+
+
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 ### 1. Clone Repository
